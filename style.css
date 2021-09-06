@@ -1,0 +1,13 @@
+#card:hover {
+  transform: scale(1.2,1.2);
+}
+
+#card {
+  transition: transform .5s;
+  border-radius: 10px;
+  box-shadow: 4px 4px 10px #0000007a;
+}
+
+#quote {
+  font-size: 30px;
+}
